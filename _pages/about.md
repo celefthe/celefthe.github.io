@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: I'm a postdoctoral research fellow in <a href='https://www.duguidlab.com'>Prof Ian Duguid</a>'s lab at the <a href='https://www.sidb.org.uk'>Simons Intitiative for the Developing Brain</a>, based in the <a href='https://www.ed.ac.uk'>University of Edinburgh</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Centre for Discovery Brain Sciences</p>
+    <p>Hugh Robson Building</p>
+    <p>George Square</p>
+    <p>Edinburgh, United Kingdom</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +20,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I received a BSc in Neuroscience at the University of Edinburgh in 2018, where I did my bachelor's dissertation in Dr Cyril Pernet's lab investigating language processing in stroke patients with Wernicke's aphasia.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In 2018, I joined the Duguid Lab as a PhD student to study visuomotor learning deficits in mouse models of Rett syndrome. My PhD was funded by a joint studentship from the Simons Initiative for the Developing Brain and the University of Edinburgh's Principal's Career Development Scholarship. I graduated in 2023; my thesis titled "Visuomotor learning in Rett syndrome" won that year's [Alison Douglas Prize for best PhD thesis in the Centre for Discovery Brain Sciences](https://discovery-brain-sciences.ed.ac.uk/constantinos-eleftheriou-wins-years-alison-douglas-prize-best-phd-thesis).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research aims to understand the nature of visuomotor learning deficits in Rett Syndrome, a devastating neurodevelopmental disordered caused by mutations in the _Mecp2_ gene. I use behavioural assays in tandem with mesoscale calcium imaging of the dorsal cortex to investigate the evolution of interareal neural dynamics across learning and their breakdown in Rett Syndrome.
+
+I am also interested in software sustainability and the management of large datasets in research, leveraging my past experience in systems administration and software development.

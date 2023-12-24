@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - celefthe
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - DuguidLab/visiomode
+  - celefthe/thesis-appendix
+  - celefthe/E11928_language_processing_aphasia
+  - celefthe/sldb
