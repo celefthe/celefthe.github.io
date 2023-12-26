@@ -1,0 +1,9 @@
+{
+    "yaml.schemas": {
+        "https://squidfunk.github.io/mkdocs-material/schema.json": "mkdocs.yml",
+        "empty": [
+            "~/.local/empty.json",
+            "file:///Users/celefthe/Projects/celefthe.github.io/_data/cv.yml"
+        ]
+    }
+}

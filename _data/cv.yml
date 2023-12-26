@@ -1,97 +1,81 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Neuroscience
+      institution: University of Edinburgh
+      year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis title - Visuomotor learning impairments in Rett syndrome.
+        - Supervised by Prof Ian Duguid.
+        - Thesis committee - Prof Peter Kind, Prof Stuart Cobb & Prof Nathalie Rochefort.
+    - title: BSc (Hons) Neuroscience
+      institution: University of Edinburgh
+      year: 2015 - 2018
       description:
-        - Description 1.
-        - Description 2.
+        - First class honours.
+        - Dissertation - A model-driven approach to understanding language processing.
+        - Supervised by Dr Cyril Pernet.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Research Fellow, Duguid Lab
+      institution: University of Edinburgh
+      year: 2023 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Imaging macroscopic cortical dynamics to understand sensorimotor dysfunction and recovery in a mouse model of Rett Syndrome.
+        - Funded by the SIDB & the MRC.
+    - title: Tutor, Biomedical Teaching Organisation
+      institution: University of Edinburgh
+      year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Statistical and data analysis teaching for Biomedical BSc and MSc courses (R & SPSS).
+        - Teaching assistant for the Neuroscience BSc programme.
+    - title: Teaching Assistant, Digital Skills & Training, Information Services
+      institution: University of Edinburgh
+      year: 2017 - 2018
       description:
+        - Unix shell programming.
+    - title: Unix Systems Administrator, Enterprise Unix Platforms, Information Services
+      institution: University of Edinburgh
+      year: 2016 - 2018
+      description:
+        - Infrastructure automation, service delivery and user experience on a VMWare-based virtual estate.
+        - Developed a web-based billing system for virtual machines.
+        - Python, JavaScript, OpenStack, VMWare, Terraform, Bash & Perl.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+- title: Awards & Scholarships
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Alison Douglas prize for best PhD thesis, CDBS, University of Edinburgh
+    - year: 2018
+      items:
+        - Principal's Career Development scholarship, University of Edinburgh
+        - PhD studentship, Simons Initiative for the Developing Brain
+        - SEOTY Award for Commercial Impact, University of Edinburgh
+    - year: 2017
+      items:
+        - The Edinburgh Award (Work Experience), University of Edinburgh
+    - year: 2011
+      items:
+        - Fulbright bicommunal youth leadership programme (CASP) at the School for International Training (VT), Fulbright Commission, USA
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: <a href="https://github.com/DuguidLab/visiomode">visiomode</a>
+      year: 2019-now
+      description: A touchscreen-based visuomotor behaviour platform for rodents
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
