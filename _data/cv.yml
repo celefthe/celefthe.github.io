@@ -42,7 +42,8 @@
       description:
         - Infrastructure automation, service delivery and user experience on a VMWare-based virtual estate.
         - Developed a web-based billing system for virtual machines.
-        - Python, JavaScript, OpenStack, VMWare, Terraform, Bash & Perl.
+        - Developed a platform for managing Openstack projects & instances.
+        - Administration & triage of a large Linux estate.
 
 - title: Awards & Scholarships
   type: time_table
@@ -62,20 +63,78 @@
       items:
         - Fulbright bicommunal youth leadership programme (CASP) at the School for International Training (VT), Fulbright Commission, USA
 
+- title: Roles & Responsibilities
+  type: time_table
+  contents:
+    - title: Elected member of the Senatus Academicus
+      institution: University of Edinburgh
+      year: 2018 - now
+      description: Non-professorial member of the Academic Senate representing postdoctoral researchers, tutors and demonstrators in the College of Medicine and Veterinary Medicine.
+    - title: Postgraduate Lead, CDBS Executive Committee
+      institution: University of Edinburgh
+      year: 2019 - 2023
+      description: Represented PhD students in the department's senior decision-making body.
+
+- title: Laboratory Skills
+  type: nested_list
+  contents:
+    - title: Surgical skills.
+      items:
+        - Stereotaxic implantation of headplates for single-photon mesoscale calcium imaging in mice.
+    - title: Neurophysiology.
+      items:
+        - Chronic mesoscale calcium imaging recordings in mice across learning.
+        - Genetic manipulation experiments with multiple transgenic lines.
+        - Chemogenetic manipulations in mice.
+    - title: Animal behaviour.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Histology.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Programming Skills
+  type: nested_list
+  contents:
+    - title: Programming languages.
+      items:
+        - <b>Python</b>. I have been using Python in a professional capacity since 2013 for software engineering, data analysis and systems administration / DevOps projects. I am fluent in the language and have a delivered a variety of applications and data analysis projects over the past decade, both as part of a team and as a solo developer.
+        - <b>JavaScript</b>. I have been using JavaScript since 2016 for building web application front-ends (initially for customer-facing web apps at UoE IS and later for <a href="https://github.com/DuguidLab/visiomode">Visiomode</a>) as well as for interactive data visualisations during my PhD and postdoc.
+        - <b>C</b>. I originally picked up C in 2016 during my time as a Unix Systems Administrator for writing and maintaining small Unix tools. My main use of C since has mainly been to speed up Python data processing where appropriate (mainly via Cython).
+        - <b>Bash</b>. I have been using Bash in a professional capacity since 2016, mainly for short scripting tasks on Unix and Linux platforms.
+        - <b>C++</b>. Since 2018, my experience with C++ has been exclusive to the Arduino platform for writing microcontroller software targetting Arduino and Teensy microcontrollers. Applications include actuators for behavioural tasks (e.g. lever & reward mechanisms), acquisition software for <i>in vivo</i> optical microscopy (single-photon mesoscopy) and software for integrating optical imaging and manipulation <i>in vivo</i>.
+        - <b>MATLAB</b>. I have used MATLAB for the analysis of fMRI data during <a href="https://github.com/celefthe/E11928_language_processing_aphasia/tree/master">my project with Dr Cyril Pernet (2017-2018)</a>, mainly using the Statistical Parametric Mapping (SPM) package.
+        - <b>R</b>. Between 2019 and 2022, I assisted in the delivery of undergraduate and postgraduate courses in biomedical statistics as a tutor, which included hands-on practical exercises and assessments in R.
+        - <b>C#</b>. In 2012, I wrote a <a href="https://github.com/celefthe/sldb">patient management application</a> for the polysomnography department of the Paphos General Hospital in Cyprus using C#.NET, WPF and Microsoft SQL.
+    - title: Data analysis.
+      items:
+        - Time series analysis.
+        - Neural decoding
+        - Dimensionality reduction
+        - Network analysis
+        - Information theory
+        - Bootstrap & resampling statistics
+        - Behavioural tracking
+        - Data visualisation.
+        - Data curation.
+    - title: Software engineering.
+      items:
+        - Version control.
+        - Testing.
+        - CI/CD.
+    - title: Systems administration & DevOps.
+      items:
+        - Unix/Linux.
+        - Virtualisation.
+        - Automation.
+        - Storage.
+        - Data analysis infrastructure.
+
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/DuguidLab/visiomode">visiomode</a>
+    - title: <a href="https://github.com/DuguidLab/visiomode">Visiomode</a>
       year: 2019-now
       description: A touchscreen-based visuomotor behaviour platform for rodents
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
