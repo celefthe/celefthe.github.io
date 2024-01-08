@@ -80,20 +80,19 @@
   contents:
     - title: Surgical skills.
       items:
-        - Stereotaxic implantation of headplates for single-photon mesoscale calcium imaging in mice.
+        - Stereotaxic implantation of headplates for chronic single-photon mesoscale calcium imaging in mice.
     - title: Neurophysiology.
       items:
-        - Chronic mesoscale calcium imaging recordings in mice across learning.
+        - Chronic mesoscale calcium imaging recordings in mice.
         - Genetic manipulation experiments with multiple transgenic lines.
         - Chemogenetic manipulations in mice.
     - title: Animal behaviour.
       items:
-        - Description 1.
-        - Description 2.
+        - Freely-moving assays of visuomotor learning and motor function.
+        - Head-restraint assays of visuomotor learning with mesoscale calcium imaging.
     - title: Histology.
       items:
-        - Description 1.
-        - Description 2.
+        - Analysis of histological datasets in 2D (fluorescent microscopy) and 3D (lightsheet microscopy), including registration, segmentation and quantification.
 
 - title: Programming Skills
   type: nested_list
@@ -112,7 +111,7 @@
       items:
         - Time series analysis.
         - Neural decoding
-        - Dimensionality reduction
+        # - Dimensionality reduction
         - Network analysis
         - Information theory
         - Bootstrap & resampling statistics
