@@ -88,8 +88,8 @@
         - Chemogenetic manipulations in mice.
     - title: Animal behaviour.
       items:
-        - Freely-moving assays of visuomotor learning and motor function.
-        - Head-restraint assays of visuomotor learning with mesoscale calcium imaging.
+        - <b>Freely-moving</b>. During my PhD, I developed a touchscreen-based forelimb reaching assay to study visuomotor learning, described in <a href="https://doi.org/10.1016/j.jneumeth.2022.109779">Eleftheriou et al. 2023</a>.
+        - <b>Head-restraint</b>. I developed a head-restraint version of the visual discrimination paradigm based on <a href="https://doi.org/10.1016/j.jneumeth.2022.109779">Visiomode</a> to study visuomotor learning, which I integrated with mesoscale calcium imaging of the dorsal cortex.
     - title: Histology.
       items:
         - Analysis of histological datasets in 2D (fluorescent microscopy) and 3D (lightsheet microscopy), including registration, segmentation and quantification.
