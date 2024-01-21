@@ -109,27 +109,25 @@
         - <b>C#</b>. In 2012, I wrote a <a href="https://github.com/celefthe/sldb">patient management application</a> for the polysomnography department of the Paphos General Hospital in Cyprus using C#.NET, WPF and Microsoft SQL.
     - title: Data analysis.
       items:
-        - Time series analysis.
-        - Neural decoding
-        # - Dimensionality reduction
-        - Network analysis
-        - Information theory
-        - Bootstrap & resampling statistics
-        - Behavioural tracking
-        - Data visualisation.
-        - Data curation.
+        - <b>Time series analysis & behavioural modelling</b>. Analysis of calcium imaging (mesoscale & 2-photon) and behavioural datasets using linear regression and mixed-effects models. Contributed to <a href="https://doi.org/10.1016/j.celrep.2022.110801">Currie et al. 2022</a> and <a href="hthttps://doi.org/10.1016/j.neuron.2021.05.016">Dacre et al. 2021</a>.
+        - <b>Neural decoding</b>. Using logistic regression and Linear Discriminant Analysis to explore neural representations of actions and stimuli in mesoscale and 2-photon calcium imaging datasets.  
+        - <b>Network analysis</b>. Graph analysis of functional connectivity networks in fMRI as well as mesoscale and 2-photon calcium imaging data. Contributed to <a href="https://doi.org/10.1016/j.celrep.2022.110801">Currie et al. 2022</a>.
+        - <b>Information theory</b>. Using information theory metrics to track the evolution of inter-areal cortical dynamics across learning. 
+        - <b>Bootstrap & resampling statistics</b>. Powerful alternative to conventional statistics, particularly for dealing with limitations commonly encountered in neuroscientific datasets. Contributed to <a href="https://doi.org/10.1016/j.celrep.2022.110801">Currie et al. 2022</a> and <a href="hthttps://doi.org/10.1016/j.neuron.2021.05.016">Dacre et al. 2021</a>.
+        - <b>Data visualisation</b>. Experience with many of the data visualisation packages in Python, such as Matplotlib, Seaborn, Bokeh and Holoviews, for communicating results of complex imaging and behavioural analyses. Experienced with interactive visualisation libraries in Python (Holoviews) and Javascript (D3). Contributed to <a href="https://doi.org/10.1016/j.celrep.2022.110801">Currie et al. 2022</a>.
+        - <b>Data curation</b>. In my current role I am responsible for the curation and storage infrastructure supporting the lab's data, which span single-cell imaging to high-density silicone probe recordings. I am currently working on integrating all acquired datasets to the <a href="https://www.nwb.org">Neurodata Without Borders format</a> to ease the sharing our data with the public and enhance synergy across different projects in the lab.
     - title: Software engineering.
       items:
-        - Version control.
-        - Testing.
-        - CI/CD.
+        - <b>Version control</b>. Proficient with Git & experienced with Subversion. Routine use of Github for private and public repositories, including pull requests and code reviews.
+        - <b>Testing</b>. Experienced with language-specific testing suites such as pytest, nose and CTest, as well as the behaviour-driven development testing framework <a href="https://cucumber.io">Cucumber</a>. 
+        - <b>CI/CD</b>. Continuous integration with Github Actions, Travis & CircleCI. 
     - title: Systems administration & DevOps.
       items:
-        - Unix/Linux.
-        - Virtualisation.
-        - Automation.
-        - Storage.
-        - Data analysis infrastructure.
+        - <b>Unix/Linux</b>. I have been using Linux in a professional capacity since 2016, with experience in the management and triage of Linux and Unix platforms at scale.
+        - <b>Virtualisation</b>. Experience with VMWare-based enterprise virtualisation solutions such as VMWare vSphere and VMWare-integrated Openstack (VIO). 
+        - <b>Automation</b>. Experience with Puppet and Ansible for automation of Linux and Unix platforms at scale.
+        - <b>Storage</b>. Experience with the management of a Dell PowerVault-based storage solution for scientific data since 2019, which I set up during my PhD in Ian Duguid's lab.  
+        - <b>Data analysis infrastructure</b>. Experience with the management of a virtual desktop infrastructure (VDI) solution for the analysis scientific data since 2019, which I set up during my PhD in Ian Duguid's lab. In addition to VDI, the infrastructure supports collaborative notebook-based analysis via Jupyter lab and GPU-accelerated machine learning pipelines on NVIDIA hardware. 
 
 - title: Open Source Projects
   type: time_table
