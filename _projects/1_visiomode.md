@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Visiomode
-description: a project with a background image
-img: assets/img/12.jpg
+description: a platform for building rodent touchscreen-based visuomotor tasks
+img: assets/img/publication_preview/visiomode_logo.png
 importance: 1
 category: software
 related_publications: eleftheriou2023
