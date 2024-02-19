@@ -6,7 +6,7 @@ subtitle: I'm a postdoctoral research fellow in <a href='https://www.duguidlab.c
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Centre for Discovery Brain Sciences</p>
