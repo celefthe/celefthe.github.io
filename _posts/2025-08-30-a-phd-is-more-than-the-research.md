@@ -20,7 +20,7 @@ Around this time two years ago and roughly 4.5 years after I first joined [Ian D
     "It wasn't all that bad, was it?"
 </div>
 
-By and large, I think I've been very lucky with my PhD. I had an incredible supervisor, awesome colleagues, and a super interesting project that I was able to make my own. Most of my challenges came mainly from the fact that doing a PhD is _hard_. The science is hard, the experiments are hard, the analysis is hard, the writing is hard. The whole thing, really, is just not easy.
+By and large, I think I've was lucky with my PhD. I had an incredible supervisor, awesome colleagues, and a super interesting project that I was able to make my own. Most of my challenges came mainly from the fact that doing a PhD is _hard_. The science is hard, the experiments are hard, the analysis is hard, the writing is hard. The whole thing, really, is just not easy.
 
 Also there was a global pandemic going on, which certainly didn't help.
 
