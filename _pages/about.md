@@ -26,4 +26,4 @@ In 2018, I joined the Duguid Lab as a PhD student to study visuomotor learning d
 
 My current research aims to understand the nature of visuomotor learning deficits in Rett Syndrome, a devastating neurodevelopmental disorder caused by mutations in the _Mecp2_ gene. I use behavioural assays in tandem with mesoscale calcium imaging of the dorsal cortex to investigate the evolution of interareal neural dynamics across learning and their breakdown in Rett Syndrome. In collaboration with [Prof Stuart Cobb](http://www.cobblab.science), we aim to establish whether such deficits can be rescued with gene therapy.
 
-I am also interested in software sustainability and the management of large datasets in research, leveraging my past experience in systems administration and software development.
+I am also interested in software sustainability and the management of large datasets in research, leveraging my past experience in systems administration and software development. Since 2025, I co-lead the SIDB Data Engineering Core facility, which provides research software and data management services to the SIDB community.
