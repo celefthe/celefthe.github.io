@@ -118,7 +118,9 @@ But, you know, don't overdo it and burn out. That's no good. If you're having tr
 
 ### Keep a research journal
 
-Notebooks of the mind
+Look, everyone probably keeps telling you this, but you really should keep a research journal on the things you're working on. It might seem whatever it is you're working on is just too important to forget, but trust me, it isn't and you'll forget about it. Maybe not next week, maybe not next month, but a couple of years down the line you'll be staring at a plot wondering where the hell it came from.
+
+After some trial and error, I settled on keeping my notes in physical notebooks. I love my stationery, and writing things down on paper offers a welcome break from staring at screens all day. You'll come across a cacophony criticisms for paper if you look online - what if you lose your notebook! paper isn't searchable! - but honestly I've not lost a notebook yet and flicking through old ideas looking for something I did long ago is both kinda fun and leads to unearthing a lot of worthwhile ideas I might've forgotten about.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -128,6 +130,10 @@ Notebooks of the mind
 <div class="caption">
     This stack of notebooks, which I keep by my desk, dates back to around the time I started my PhD.
 </div>
+
+It doesn't really matter how you do it, but I would suggest avoiding enforcing too much structure on your notes. Treat them as scribblings, not as polished products; save the polish for your papers and your thesis. The important thing is that you write things down, not that they look pretty or organised. All you really need is a date.
+
+I keep a lot of notes on meetings, random ideas that pop in my head, as well as things like planning bits of analysis or experiments. I differentiate between my "research journals", which are for personal scribblings with no particular structure to them, and lab notebooks, which are much more structured and contain the kind of experimental information we're legally bound to keep. The specific policy on the latter will likely vary based on your department; your research journal on the other hand is for you, so you can do whatever you want with it.
 
 ### Show up
 
