@@ -1,15 +1,19 @@
 ---
 layout: post
 title: a phd is more than just the research
-date: 2024-08-30
+date: 2026-01-29
 description: reflecting back on my phd experience, most of what i've learned has nothing to do with neuroscience
 tags: phd
 categories: reflective, phd
 ---
 
-Around the Christmas of 2021, towards the tail-end of what would've been nearly two years of the Covid-19 pandemic, I came across [this blog post by Austin Henley](https://austinhenley.com/blog/lessonsfrommyphd.html), which ended up being one of the most influential bits of writing I read during my PhD. If you're reading this and haven't already done so, I very much encourage you to go back and read his post. Austin's blog really struck a chord with me; his insights about navigating supervisor meetings, presentations and keeping motivated really resonated with my experience at the time, and it really helped me put things into perspective and reframe my approach to my PhD.
+Around the Christmas of 2021, towards the tail-end of what would've been nearly two years of the Covid-19 pandemic, I came across [this blog post by Austin Henley](https://austinhenley.com/blog/lessonsfrommyphd.html), which ended up being one of the most influential bits of writing I read during my PhD. If you're reading this and haven't already done so, I very much encourage you to go back and read his post at some point.
 
-About two years ago and roughly 4.5 years after I first joined [Ian Duguid's](https://duguidlab.com) lab as a PhD student, I graduated. With a tap on the head by the [medieval space bonnet](https://www.atlasobscura.com/articles/harry-potter-sorting-hat-geneva-bonnet-graduation), it was over.
+---
+
+About two years ago and roughly 4.5 years after I joined [Ian Duguid's](https://duguidlab.com) lab as a PhD student, I graduated. If I'm being completely honest, at the time I didn't feel particularly proud or accomplished. I felt tired.
+
+But, fatigue aside, I had learned a heck of a lot, and it was time for me to log into every service provider, bank account and government agency I could think of and change my title from "Mr" to "Dr".
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -17,14 +21,14 @@ About two years ago and roughly 4.5 years after I first joined [Ian Duguid's](ht
     </div>
 </div>
 <div class="caption">
-    "It wasn't all that bad, was it?"
+    "Worth it."
 </div>
 
-By and large, I think I was pretty lucky with my PhD. I had an incredible supervisor, awesome colleagues, and a super interesting project that I was able to make my own. Most of my challenges came mainly from the fact that doing a PhD is _hard_. The science is hard, the experiments are hard, the analysis is hard, the writing is hard. The whole thing is just not easy at all.
+I was pretty lucky with my PhD. I had an incredible supervisor, awesome colleagues, and a super interesting project that I was able to make my own. Most of my challenges came mainly from the fact that doing a PhD is _hard_. They really don't hand those things out.
 
 Also there was a global pandemic going on, which didn't help.
 
-As I look back at my time as a PhD student, I think that most of what I've actually _learned_ really had nothing to do with neuroscience per se. I mean, learning about the brain and neurodevelopmental disorders was a big chunk of it, sure. But it ain't all there is to it.
+I think that most of what I've actually _learned_ during my PhD really had little to do with neuroscience per se. I mean, yes, obviously a lot of what I learned did have to do with neuroscience, but it was by no means all there was to it. The PhD, I think, is a pretty unique time, and one that doesn't quite resemble what comes before nor after.
 
 Here I list a few of the things that I learned during my time as a PhD student in the hope that you'll find them useful, whether you're just starting out on your PhD or are well into it. Of course, these are all relevant to what _my_ PhD was like, so take it all with a bucket of salt; your mileage may vary.  
 
@@ -32,7 +36,6 @@ Here I list a few of the things that I learned during my time as a PhD student i
 - [Plan, plan, plan](#plan-plan-plan)
 - [Every meeting needs an agenda](#every-meeting-needs-an-agenda)
 - [Let failure wash over you](#let-failure-wash-over-you)
-- [Details matter](#details-matter)
 - [Bite more than you can chew](#bite-more-than-you-can-chew)
 - [Keep a research journal](#keep-a-research-journal)
 - [Show up](#show-up)
@@ -57,7 +60,7 @@ Here's a few things I found helpful:
 - It's natural to be worried about sounding silly in front of your supervisor or your colleagues, but you'll have to beat this pretty quickly and ask as many questions as you possibly can. Nobody's expecting you to know everything (or, really, anything) from the get-go, so whenever you come across something you're not sure about, ask. This is especially true for lab meetings or journal clubs; there will be lots of things you don't know but you're surrounded by experts, so just ask them! Sitting in a corner silent and confused is only going to be detrimental to your learning. Get over yourself and sound dumb, it's good for you.
 - The trick to having good ideas is to have lots of them. Most are going to be terrible. Some might not be. Your supervisor can act as a great sounding board for which ideas are probably worth exploring and can translate into work that'll fit the time (and budget) constrains of your PhD.
 - If you think an idea is good, stand by it. Sometimes a good idea is going to get shot down, but that doesn't mean you ought to abandon it. Take the feedback, refine your reasoning, and try again.
-- Likewise, if you've been suggested to do something that you don't think is a good idea, don't act like you can't question it just because it came from someone more senior. Again, it's your project, and you're spending much more time thinking about it than anybody else. This doesn't mean you should ignore advice and never listen to anybody else but sometimes you'll just have to weigh things up and arrive at your own conclusions.
+- Likewise, if you've been suggested to do something that you don't think is a good idea, don't act like you can't question it just because it came from someone more senior. It's your project, and you're spending much more time thinking about it than anybody else. This doesn't mean you should ignore advice and never listen to anybody else but sometimes you'll just have to weigh things up and arrive at your own conclusions.
 - If you're not sure how you're doing - ask! Have a chat with your supervisor and ask them how they think you're doing. Remember your success is in your supervisor's best interest, and you taking ownership of your project is a crucial aspect of becoming an independent scientist - so they'll want to help[^1].
 
 Scary as it might be, taking ownership of your project is honestly one of the most rewarding aspects of a PhD. Take the plunge and it'll pay off!
@@ -87,17 +90,31 @@ Supervisor meetings in particular become infinitely more useful once you realise
 
 ## Let failure wash over you
 
-Get used to being wrong.
+If you've made it this far, you've more than likely gotten used to feeling smart. You've done well at school. You've probably done quite well at University. Hell, you got into a PhD programme, and that's as smart as they come.
 
-### Details matter
+Unfortunately, if you're anything like me in 2018, your academic success so far hasn't prepared you particularly well for dealing with being an idiot. I mentioned earlier that I found my first PhD year the hardest. Frankly, I really struggled to grasp a lot of the literature[^6]. I also was not great at the experiments, and was rather intimidated by a lot of the surgery I had to do. I was very wrong very often. And all my colleagues looked like they really knew what they were doing in a way that I really could not relate to.
 
-Obsess with detail
+_How can this be if I am the smartest boy?_, I cried.
 
-Presenting detail is a different matter. Details will always matter more to you than to anyone else
+One of the more confronting aspects of my PhD was realising that I was not, in fact, the smartest boy. It's very easy, given the nature of the work, to take failure and being wrong personally. This can quickly spiral to feelings of inadequacy, or feeling like you're an imposter - everyone around you is just so much better and you were a fool to think you could do this to begin with.
+
+The reality is that, unlike what you might have been lead to believe, science is not filled with people of superhuman intellect[^7]. It's just filled with _people_. People who have been trained to do a job and have gotten good at it over time. People who are wrong frequently and find science difficult.
+
+And you'll be one of these people too. Get used to being wrong and don't take it too personally. It's just part of the process; you're working on the frontier of human understanding for crying out loud. And sometimes there will be people who genuinely are a bit smarter and better than you, and for whom it all appears easy. Good on them! My advice is to not fret about that sort of thing and just get on with it.
+
+Get comfortable feeling confused. Let failure reassure you. Celebrate how dumb you are. You'll be much happier for it.
 
 ### Bite more than you can chew
 
-If you're feeling comfortable you're probably not learning a whole lot
+A PhD is at its core a training programme - it's effectively an apprenticeship for being a research scientist. So you should take this time to learn, upskill, and be a bit experimental (no pun intended). And take a few risks.
+
+The PhD is not intended to be comfortable. Unless you're coming in with a lot of prior experience (e.g. you've worked in industry for half a decade or something), you should be feeling well outside your comfort zone. You'll be doing a lot of things which are new and difficult, all at the same time.
+
+It follows, then, that if you're feeling comfortable you're probably not learning a whole lot. Booo! You should live a little. Take a side project on. Go teach. Learn a new technique, or stats, or programming. It's all going to be useful down the line, and you'll meet new people and make connections and, if the unthinkable does happen and you decide to one day leave academia, you'll have a bunch of useful skills to take with you.
+
+Strictly speaking, all you need to do to get a PhD (in the UK at least) is write a thesis. In this respect, what is expected of you during your PhD hinges entirely on your own progression. Contrast this with being a postdoc or research assistant, where you're contractually obliged to deliver things like papers and grant proposals and pilot data. Take advantage of the time you have and max out on the things you can do and learn!
+
+But, you know, don't overdo it and burn out. That's no good. If you're having trouble getting out of bed or being motivated you might want to scale some of your extracurriculars back and just focus on the thesis itself. It's an opportunity, for sure, but it's really not worth sacrificing your health over.
 
 ### Keep a research journal
 
@@ -115,6 +132,8 @@ You got this.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don’t do what I do, basically. <a href="https://t.co/3WCbI1e9w6">pic.twitter.com/3WCbI1e9w6</a></p>&mdash; Dr Meming (@Dr_Meming) <a href="https://twitter.com/Dr_Meming/status/1829938158579945642?ref_src=twsrc%5Etfw">August 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+And much like my PhD, this blog post got a bit too long and took me way longer to write than I thought it would.
+
 Thanks again to [Austin Henley](https://austinhenley.com/blog/lessonsfrommyphd.html) for the inspiration!
 
 ---
@@ -124,3 +143,5 @@ Thanks again to [Austin Henley](https://austinhenley.com/blog/lessonsfrommyphd.h
 [^3]: I remember coming across this concept a while back described as planning at "10k ft, 1k ft, 100 ft" etc but I could not find a good resource when writing this post for the life of me. It's practically the same thing.
 [^4]: "Need" can take a variety of definitions, but generally speaking - you _need_ food and water, you don't _need_ to spend half a morning trying to work out why the Zotero plugin doesn't work on Safari anymore.
 [^5]: If you're in a meeting where you need to justify your existence, you generally _know_ before you rock up to the meeting.
+[^6]: By this point in my life/career, if I don't understand a paper, I blame the authors. If the half dozen people in your field who would care about your paper don't understand what you're on about then who did you write this for?
+[^7]: Don't meet your heroes, kids.
