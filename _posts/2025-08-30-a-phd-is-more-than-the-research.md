@@ -120,6 +120,15 @@ But, you know, don't overdo it and burn out. That's no good. If you're having tr
 
 Notebooks of the mind
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/notebooks.png" title="me graduating" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This stack of notebooks, which I keep by my desk, dates back to around the time I started my PhD.
+</div>
+
 ### Show up
 
 ### Don't panic too much
