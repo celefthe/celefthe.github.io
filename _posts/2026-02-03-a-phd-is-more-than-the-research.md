@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a phd is more than just the research
-date: 2026-01-29
+date: 2026-02-03
 description: reflecting back on my phd experience, most of what i've learned has nothing to do with neuroscience
 tags: phd
 categories: reflective, phd
@@ -24,7 +24,7 @@ But, fatigue aside, I had learned a heck of a lot, and it was time for me to log
     "Worth it."
 </div>
 
-I was pretty lucky with my PhD. I had an incredible supervisor, awesome colleagues, and a super interesting project that I was able to make my own. Most of my challenges came mainly from the fact that doing a PhD is _hard_. They really don't hand those things out.
+I was pretty lucky with my PhD. I had an incredible supervisor. I got along brilliantly with my colleagues. My project was super interesting and I was able to make my own. Most of my challenges came mainly from the fact that doing a PhD is _hard_. They really don't hand those things out.
 
 Also there was a global pandemic going on, which didn't help.
 
@@ -39,7 +39,6 @@ Here I list a few of the things that I learned during my time as a PhD student i
 - [Bite more than you can chew](#bite-more-than-you-can-chew)
 - [Keep a research journal](#keep-a-research-journal)
 - [Show up](#show-up)
-- [Don't panic too much](#dont-panic-too-much)
 
 ---
 
@@ -49,7 +48,7 @@ It sounds fairly obvious, but your PhD project is _your_ PhD project.
 
 The harsh reality is that nobody is going to care about your project as much as you do. Your supervisor is likely managing multiple projects, your colleagues have their own work, your friends and family have their own lives and at best only _sort of_ understand what you're doing. All these people probably care about you as a person and have vested interests in your success. But they ain't the ones that have to do the doing. This is going to be on you.
 
-What this means is that you're going to have to be the driving force behind the project, not just practically (i.e. doing the experiments) but also intellectually. While your supervisor will more than likely give you a place to start from, the direction of the project is going to largely be down to you. Your supervisor is there to provide guidance and support, but it's up to you to you understand what it is that you're doing and why.
+What this means is that you're going to have to be the driving force behind the project, not just practically (i.e. doing the experiments) but also intellectually. Your supervisor is there to provide guidance and support, but it's up to you to you understand what it is that you're doing and why.
 
 This is what really sets the PhD apart from any other degree. Nobody's there to tell you _what_ you need to do - and quite frankly you [really don't want them to](https://austinhenley.com/blog/lessonsfrommyphd.html#leadorbeled).
 
@@ -67,7 +66,7 @@ Scary as it might be, taking ownership of your project is honestly one of the mo
 
 ### Plan, plan, plan
 
-You know the old adage "if you fail to plan, you plan to fail"? You're going to have to take it pretty seriously because a PhD is _not_ a whole lot of time[^2], especially if experiments are involved. Everything is going to take a lot longer than you'd expect, and going at it without a plan at all is a recipe for a whole lot of anxiety and disappointment.
+You know the old adage "if you fail to plan, you plan to fail"? You're going to have to take it pretty seriously because a PhD is _not_ a whole lot of time[^2], especially if experiments are involved. Everything is going to take a lot longer than you expect, and going at it without a plan at all is a recipe for a whole lot of anxiety and disappointment.
 
 That doesn't mean your planning has to be _perfect_. For the most part, it just has to _be_. Planning forces you to confront the practical realities of whatever experiment or research direction you and your supervisor have come up with. Coming up with experiments (or analysis) is easy. Actually doing them is a whole other kettle of fish. Coming out of a "jam session" with your supervisor with half a dozen ideas for stuff to do and attempting to do all of them them all at once is a recipe for [burning out](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases). You're not immune to this. A PhD is not a whole lot of time, but it's not a short amount of time either. Firing all cylinders at all times, working >60 hour weeks for years on end, is unrealistic and unsustainable. Ideally, with a bit of planning you can spread the workload a little more evenly and keep a somewhat consistent output. And, when inevitably you _do_ need to push, you can at least have some idea of how long you have to push _for_.
 
@@ -118,9 +117,9 @@ But, you know, don't overdo it and burn out. That's no good. If you're having tr
 
 ### Keep a research journal
 
-Look, everyone probably keeps telling you this, but you really should keep a research journal on the things you're working on. It might seem whatever it is you're working on is just too important to forget, but trust me, it isn't and you'll forget about it. Maybe not next week, maybe not next month, but a couple of years down the line you'll be staring at a plot wondering where the hell it came from.
+Look, everyone probably keeps telling you this, but you really should write down the things you're working on. It might seem whatever it is you're working on is just too important to forget, but trust me, it isn't and you'll forget about it. Maybe not next week, maybe not next month, but a couple of years down the line you'll be staring at a plot wondering where the hell it came from.
 
-After some trial and error, I settled on keeping my notes in physical notebooks. I love my stationery, and writing things down on paper offers a welcome break from staring at screens all day. You'll come across a cacophony criticisms for paper if you look online - what if you lose your notebook! paper isn't searchable! - but honestly I've not lost a notebook yet and flicking through old ideas looking for something I did long ago is both kinda fun and leads to unearthing a lot of worthwhile ideas I might've forgotten about.
+After some trial and error, I settled on keeping "research journals" in physical notebooks. Think of them as diaries for the research. I love my stationery, and writing things down on paper offers a welcome break from staring at screens all day. You'll come across a cacophony criticisms for paper if you look online - what if you lose your notebook! paper isn't searchable! - but honestly I've not lost a notebook yet and flicking through old ideas looking for something I did long ago is both kinda fun and leads to unearthing a lot of worthwhile stuff I've forgotten about.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -131,17 +130,25 @@ After some trial and error, I settled on keeping my notes in physical notebooks.
     This stack of notebooks, which I keep by my desk, dates back to around the time I started my PhD.
 </div>
 
-It doesn't really matter how you do it, but I would suggest avoiding enforcing too much structure on your notes. Treat them as scribblings, not as polished products; save the polish for your papers and your thesis. The important thing is that you write things down, not that they look pretty or organised. All you really need is a date.
+It doesn't really matter how you do it, but I would suggest you avoid enforcing too much structure on your notes. Treat them as scribblings, not as polished products; save the polish for your papers and your thesis. The important thing is that you write things down, not that they look pretty or organised. All you really need is a date at the top.
 
 I keep a lot of notes on meetings, random ideas that pop in my head, as well as things like planning bits of analysis or experiments. I differentiate between my "research journals", which are for personal scribblings with no particular structure to them, and lab notebooks, which are much more structured and contain the kind of experimental information we're legally bound to keep. The specific policy on the latter will likely vary based on your department; your research journal on the other hand is for you, so you can do whatever you want with it.
 
 ### Show up
 
-### Don't panic too much
+Pretty much what it sounds like. I know it might come across a bit silly, but you should make an effort to _physically_ be there during your PhD.
+
+It is incredibly, _incredibly_ easy to become extremely siloed during you PhD, even if it requires your physical presence (i.e. you need to do experiments). You might feel like you're out of time, or you concentrate better on your own, or like to work in your jimjams... Whatever the reason, you may find yourself spending less and less time around your colleagues and more time on your own, either at home or in some dark recess of whatever 18th century cavern you happen to be working in.
+
+Honestly, don't.
+
+People are different, and people's "optimal" working conditions vary. But we humans are social creatures. Isolation will not do you good, neither mentally nor professionally. Your colleagues are probably the only people around who'll know what you're going through, and blowing off some steam having a rant about things being a bit shite is honestly quite therapeutic.
+
+Science is the friends we make along the way. Show up, talk to people, be nice. It's good for your soul.
 
 ---
 
-Not every PhD is the same. There's a very solid chance that your experience was or will be quite different from mine. But I genuinely hope that you'll find at least some of this useful. If you're just starting up your PhD, or are well into it, and are finding it difficult - that's completely normal. Anyone who tells you they found it easy is lying and you should tell them to go away.
+Not every PhD is the same. There's a very solid chance that your experience was or will be quite different from mine. But I genuinely hope that you'll find at least some of this useful. If you're just starting up your PhD, or are well into it, and are finding it difficult, don't fret. It's all perfectly normal. Anyone who tells you they found it easy is lying and you should tell them to go away.
 
 You got this.
 
