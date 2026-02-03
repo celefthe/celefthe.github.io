@@ -66,10 +66,30 @@
 - title: Roles & Responsibilities
   type: time_table
   contents:
-    - title: Elected member of the Senatus Academicus
+    - title: Co-Chair, Gordon Research Seminar on Fragile X and Autism-Related Disorders
+      institution: Gordon Research Conferences
+      year: 2026
+      description: Responsible for fundraising and organising the 2026 Gordon Research Seminar on Fragile X and Autism-Related Disorders in Maine, USA.
+    - title: Technical Lead, SIDB Data Engineering Core Facility
+      institution: University of Edinburgh
+      year: 2025 - now
+      description: I co-lead the SIDB Data Engineering Core facility, which provides research software and data management services to the SIDB community.
+    - title: SIDB Seminar Organising Committee
+      institution: University of Edinburgh
+      year: 2025 - now
+      description: Since 2025, I am a member of the organising committee for the SIDB seminar series.
+    - title: Elected member of the Academic Senate
       institution: University of Edinburgh
       year: 2018 - now
       description: Non-professorial member of the Academic Senate representing postdoctoral researchers, tutors and demonstrators in the College of Medicine and Veterinary Medicine.
+    - title: Organiser, George Square Postdoc Society
+      institution: University of Edinburgh
+      year: 2024 - 2025
+      description: As an organiser for the local postdoctoral society, I was responsible for managing the annual budget and planning networking and career development events.
+    - title: Facilitator, The Cajal Advanced Neuroscience Training Programme
+      institution: Bordeaux School of Neuroscience
+      year: 2024 
+      description: I served as a project facilitator for the 2024 Cajal Course titled "Movement and Motor Control in Health and Disease." The week-long project combined freely-moving behaviour using the Visiomode platform with Neuropixel recordings in secondary motor cortex. 
     - title: Postgraduate Lead, CDBS Executive Committee
       institution: University of Edinburgh
       year: 2019 - 2023
@@ -81,11 +101,12 @@
     - title: Surgical skills.
       items:
         - Stereotaxic implantation of headplates for chronic single-photon mesoscale calcium imaging in mice.
+        - Stereotaxic injections of tracer material for circuit mapping and morphological reconstruction of neurons.
     - title: Neurophysiology.
       items:
         - Chronic mesoscale calcium imaging recordings in mice.
         - Genetic manipulation experiments with multiple transgenic lines.
-        - Chemogenetic manipulations in mice.
+        - Chemogenetic and optogenetic manipulations in mice.
     - title: Animal behaviour.
       items:
         - <b>Freely-moving</b>. During my PhD, I developed a touchscreen-based forelimb reaching assay to study visuomotor learning, described in <a href="https://doi.org/10.1016/j.jneumeth.2022.109779">Eleftheriou et al. 2023</a>.
@@ -93,6 +114,7 @@
     - title: Histology.
       items:
         - Analysis of histological datasets in 2D (fluorescent microscopy) and 3D (lightsheet microscopy), including registration, segmentation and quantification.
+        - Immunohistochemistry.
 
 - title: Programming Skills
   type: nested_list
